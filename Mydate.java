@@ -40,10 +40,6 @@ public class Mydate {
 	}
 	public static void main(String[] args) {
 		Mydate obj=new Mydate();
-		
-		
-		
-		
 		Mydate obj2=new Mydate(9,12,2020);
 		obj2.display();
 	    
